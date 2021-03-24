@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starboard98
 - 👀 I’m interested in algorithm
-- 🌱 I’m currently learning computer science at kyonggi university
+- 🌱 I’m currently learning computer science at Kyonggi university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parkstarboard@gmail.com
 
